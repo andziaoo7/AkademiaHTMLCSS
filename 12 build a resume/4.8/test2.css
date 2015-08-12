@@ -1,0 +1,10 @@
+div {
+    border-radius: 5px;
+    height: 80px;
+    width: 80%;
+    background-color: #fef1b5 ;
+}
+#header {
+    position: fixed;
+    z-index: 1;
+}
